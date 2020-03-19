@@ -1,1 +1,1 @@
-web: gunicorn intense-ravine-11027.wsgi --log-file -
+web: gunicorn app:app --log-file=-
