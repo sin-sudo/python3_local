@@ -1,0 +1,76 @@
+@media (max-width: 1000px) {
+  h1 {
+    font-size: 25px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+ 
+}
+
+@media (max-width: 670px) {
+
+  header ul a {
+    font-size: 15px;
+  }
+
+  .info h1 {
+    font-size: 25px;
+  }
+
+  .info p {
+    font-size: 15px;
+  }
+
+  /* header ul {
+    display: none;
+  } */
+
+  /* .menu-icon {
+    display: block;
+    background-color: rgb(180, 191, 200);
+    float: right;
+    color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+  } */
+
+  .menu-icon:hover {
+    cursor: pointer;
+  }
+
+  /* .menu-icon:active {
+    header ul {
+      display: block;
+    }
+  } */
+
+  .hobby {
+    display: block;
+  }
+
+  .hobby img {
+    width: 100%;
+  }
+
+  .hobby p {
+    width: 100%;
+  }
+
+  .hobby-wrapper {
+    /* text-align: center; */
+    margin: 0 auto;
+  }
+
+  .strong-point {
+    display: block;
+    width: 100%;
+  }
+
+  .strong {
+    width: 100%;
+    margin: 0;
+  }
+  
+}
