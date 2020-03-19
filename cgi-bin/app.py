@@ -108,8 +108,8 @@ print(
   <div class="achievement">
     <h1>作品集</h1>
     <p>ここでは料理注文システムとじゃんけんゲームの機能を提供しています。私のアウトプットをどんどんこのサイトにアップしていきたいと思います！</p>
-    <a href="janken.py" target="_blank" class ="app">じゃんけんゲームへ</a>
-    <a href="menu.py" target="_blank" class="app">料理注文システムへ</a>
+    <a href="janken.py" target="_blank" class ="app_again">じゃんけんゲームへ</a>
+    <a href="menu.py" target="_blank" class="app_again">料理注文システムへ</a>
   </div>
   
   <section id="my-strong">

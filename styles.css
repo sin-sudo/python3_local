@@ -283,7 +283,7 @@ section h1 {
   margin-top: 20px;
 }
 
-.app {
+.app_again {
   text-align: center;
   background-color: limegreen;
   padding: 20px 33px;
@@ -295,7 +295,7 @@ section h1 {
   margin-top: 20px;
 }
 
-.app:active {
+.app_again:active {
   box-shadow: none;
   position: relative;
   top: 7px;
